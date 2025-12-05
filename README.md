@@ -11,7 +11,7 @@ Aquí algunos de mis trabajos recientes:
   👉 https://github.com/alejandro1osorio/dia-nacional-cepillado-2024  
 
 - **Crecer con Colgate (Módulo + Admin)**  
-  👉 https://crecerconcolgate.col1.co/ 
+  👉 https://crecerconcolgate.col1.co/ <br>
   👉 https://administracion.crececoncolgate.col1.co/ 
 
 - **Landing Arrurru**  
