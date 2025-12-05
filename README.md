@@ -8,7 +8,7 @@ Aquí algunos de mis trabajos recientes:
 
 ## 🚀 Proyectos
 - **Día Nacional del Cepillado (Colgate)**  
-  👉 https://dia-nacional-cepillado-sbfb2024.col1.co/ 
+  👉 https://dia-nacional-cepillado-sbfb2024.col1.co/ <br>
   👉 https://evidencias-dnc2025.col1.co/
 
 - **Crecer con Colgate (Módulo + Admin)**  
