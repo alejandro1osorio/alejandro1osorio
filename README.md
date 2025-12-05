@@ -8,14 +8,27 @@ Aquí algunos de mis trabajos recientes:
 
 ## 🚀 Proyectos
 - **Día Nacional del Cepillado (Colgate)**  
-  👉 https://github.com/alejandro1osorio/dia-nacional-cepillado-2024  
+  👉 https://dia-nacional-cepillado-sbfb2024.col1.co/ 
 
 - **Crecer con Colgate (Módulo + Admin)**  
   👉 https://crecerconcolgate.col1.co/ <br>
-  👉 https://administracion.crececoncolgate.col1.co/ 
+  👉 https://administracion.crececoncolgate.col1.co/ <br>
+  👉 **Modelo ERR (base de datos):** https://github.com/alejandro1osorio/crecer-con-colgate/tree/main/data-base
+
+- **Visita Digital Autoguiada Colgate** <br>
+  👉 https://visita.kagencia.com/  
+
+- **Colgate Pass** <br>
+  👉 https://colgatepass.kagencia.com/ 
 
 - **Landing Arrurru**  
-  👉 https://github.com/alejandro1osorio/landing-arrurru  
+  👉 https://arrurru.bivien.col1.co/
+
+- **Landing Intibon**  
+  👉 https://intibon.bivien.col1.co/
+
+- **Landing Sunpro**  
+  👉 https://sun-pro.bivien.col1.co/ 
 
 ---
 
