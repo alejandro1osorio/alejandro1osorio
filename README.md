@@ -23,10 +23,10 @@ Aquí algunos de mis trabajos recientes:
   👉 https://colgatepass.kagencia.com/ 
 
 - **Landing Arrurru**  
-  👉 https://arrurru.bivien.col1.co/
+  👉 https://landing-arrurru.vercel.app/
 
 - **Landing Intibon**  
-  👉 https://intibon.bivien.col1.co/
+  👉 https://landing-intibon.vercel.app/
 
 - **Landing Sunpro**  
   👉 https://sun-pro.bivien.col1.co/ 
