@@ -1,60 +1,73 @@
 # 🌎 Alejandro Osorio  
-**FullStack Developer | Vue.js | Node.js**
+**Data Analyst | SQL | Python | Power BI**
 
-Desarrollo interfaces claras, sistemas funcionales y automatizo procesos.  
-Aquí algunos de mis trabajos recientes:
+Profesional orientado al **análisis de datos**, enfocado en transformar información en **insights claros para la toma de decisiones**.  
+Tengo experiencia trabajando con **bases de datos, consultas SQL, análisis exploratorio y visualización de datos** utilizando herramientas modernas del ecosistema de datos.
 
----
-
-## 🚀 Proyectos
-- **Día Nacional del Cepillado (Colgate)**  
-  👉 https://dia-nacional-cepillado-sbfb2024.col1.co/ <br>
-  👉 https://evidencias-dnc2025.col1.co/
-
-- **Crecer con Colgate (Módulo + Admin)**  
-  👉 https://crecerconcolgate.col1.co/ <br>
-  👉 https://administracion.crececoncolgate.col1.co/ <br>
-  👉 **Modelo ERR (base de datos):** https://github.com/alejandro1osorio/crecer-con-colgate/tree/main/data-base
-
-- **Visita Digital Autoguiada Colgate** <br>
-  👉 https://visita.kagencia.com/  
-
-- **Colgate Pass** <br>
-  👉 https://colgatepass.kagencia.com/ 
-
-- **Landing Arrurru**  
-  👉 https://landing-arrurru.vercel.app/
-
-- **Landing Intibon**  
-  👉 https://landing-intibon.vercel.app/
-
-- **Landing Sunpro**  
-  👉 https://sun-pro.bivien.col1.co/ 
+Actualmente continúo fortaleciendo mis habilidades en **análisis, modelado y visualización de datos**.
 
 ---
 
-## 🛠️ Tech Stack
+# 📊 Experiencia en Proyectos de Datos
+
+## 🚀 Crecer con Colgate (Módulo + Admin)
+Plataforma desarrollada para la gestión, almacenamiento y análisis de datos generados por usuarios dentro del programa **Crecer con Colgate**.
+
+**Responsabilidades y trabajo con datos:**
+
+- Diseño y consulta de **bases de datos relacionales**
+- Análisis de información almacenada para administración del sistema
+- Creación de consultas SQL para extracción y procesamiento de datos
+- Organización y estructuración de datos para análisis
+
+🔗 Plataforma  
+👉 https://crecerconcolgate.col1.co/
+
+🔗 Panel de administración  
+👉 https://administracion.crececoncolgate.col1.co/
+
+🔗 Modelo de Base de Datos (ERR)  
+👉 https://github.com/alejandro1osorio/crecer-con-colgate/tree/main/data-base
+
+---
+
+# 🛠️ Tech Stack
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="vue" width="40" height="40" style="margin-right:10px;"/>
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" style="margin-right:10px;"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/>
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40" style="margin-right:10px;"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="40" height="40"/>
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40" style="margin-right:10px;"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40" style="margin-right:10px;"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="40" height="40"/>
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="40" height="40" style="margin-right:10px;"/>
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash-cli" width="40" height="40"/>
 </p>
 
+**Tecnologías y herramientas**
+
+- SQL  
+- MySQL  
+- Python  
+- Excel  
+- Power BI  
+- Linux
+
 ---
 
-## 📫 Contacto  
-**Email:** alejowosorio2986@gmail.com  
-**Tel:** 322 621 6981
+# 📊 Habilidades en Análisis de Datos
+
+- Consultas SQL para análisis de datos  
+- Limpieza y transformación de datos  
+- Análisis exploratorio de datos (EDA)  
+- Visualización de datos en Power BI  
+- Manejo y organización de bases de datos relacionales  
+- Automatización básica de procesos con Python
 
 ---
+
+# 📫 Contacto  
+
+📧 **Email:** alejowosorio2986@gmail.com  
+📱 **Tel:** 322 621 6981
