@@ -43,6 +43,10 @@ Plataforma desarrollada para la gestión, almacenamiento y análisis de datos ge
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="40" height="40"/>
 
+<img src="https://img.icons8.com/color/48/microsoft-excel-2019.png" alt="excel" width="40" height="40"/>
+
+<img src="https://img.icons8.com/color/48/power-bi.png" alt="powerbi" width="40" height="40"/>
+
 </p>
 
 **Tecnologías y herramientas**
