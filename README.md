@@ -1,77 +1,152 @@
-# 🌎 Alejandro Osorio  
-**Data Analyst | SQL | Python | Power BI**
+# 👋 ¡Hola! Soy Alejandro Osorio Salazar
 
-Profesional orientado al **análisis de datos**, enfocado en transformar información en **insights claros para la toma de decisiones**.  
-Tengo experiencia trabajando con **bases de datos, consultas SQL, análisis exploratorio y visualización de datos** utilizando herramientas modernas del ecosistema de datos.
+## 💻 Desarrollador de Software Full Stack
 
-Actualmente continúo fortaleciendo mis habilidades en **análisis, modelado y visualización de datos**.
+Soy Tecnólogo en **Análisis y Desarrollo de Sistemas de Información (SENA)** con más de **2 años de experiencia** en el desarrollo de aplicaciones web. Me especializo en construir soluciones de punta a punta, desde el análisis de requerimientos y el modelado de bases de datos hasta el desarrollo Frontend, Backend y el despliegue en servidores Linux.
 
----
-
-# 📊 Experiencia en Proyectos de Datos
-
-## 🚀 Crecer con Colgate (Módulo + Admin)
-Plataforma desarrollada para la gestión, almacenamiento y análisis de datos generados por usuarios dentro del programa **Crecer con Colgate**.
-
-**Responsabilidades y trabajo con datos:**
-
-- Diseño y consulta de **bases de datos relacionales**
-- Análisis de información almacenada para administración del sistema
-- Creación de consultas SQL para extracción y procesamiento de datos
-- Organización y estructuración de datos para análisis
-
-🔗 Plataforma  
-👉 https://crecerconcolgate.col1.co/
-
-🔗 Panel de administración  
-👉 https://administracion.crececoncolgate.col1.co/
-
-🔗 Modelo de Base de Datos (ERR)  
-👉 https://github.com/alejandro1osorio/crecer-con-colgate/tree/main/data-base
+He participado en el desarrollo de proyectos para marcas como **Colgate**, **Bivien** y **Mondelez**, siempre enfocado en crear aplicaciones escalables, eficientes y fáciles de mantener.
 
 ---
 
-# 🛠️ Tech Stack
+## 🚀 Tecnologías
 
-<p align="left">
+### Frontend
+- HTML5
+- CSS3
+- JavaScript
+- Vue.js
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/>
+### Backend
+- PHP
+- Node.js
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+### Bases de Datos
+- MySQL
+- SQL
+- MongoDB
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
+### DevOps y Herramientas
+- Linux
+- Git
+- WHM/cPanel
+- PM2
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="40" height="40"/>
+### Otras Tecnologías
+- Excel (Intermedio)
+- Power BI (Básico)
+- Python (Básico)
 
-<img src="https://img.icons8.com/color/48/microsoft-excel-2019.png" alt="excel" width="40" height="40"/>
+---
 
-<img src="https://img.icons8.com/color/48/power-bi.png" alt="powerbi" width="40" height="40"/>
+# 💼 Experiencia
 
+## Programador Web Full Stack
+**K Agencia SAS**
+
+📅 Octubre 2024 – Diciembre 2025
+
+- Diseño y estructuración de la arquitectura de proyectos web.
+- Desarrollo y modelado de bases de datos.
+- Desarrollo, mantenimiento y optimización de aplicaciones web.
+- Configuración y administración de servidores mediante WHM/cPanel.
+- Elaboración de informes y reportes en Excel para análisis de datos.
+
+---
+
+## Programador Web Full Stack
+**GB Media Group SAS**
+
+📅 Octubre 2023 – Abril 2024
+
+- Desarrollo de plataformas Ecommerce.
+- Desarrollo de Landing Pages.
+- Mantenimiento y soporte de aplicaciones web.
+
+---
+
+# 📂 Proyectos Destacados
+
+## 🦷 Crecer con Colgate
+
+Plataforma web de capacitación para profesionales de la salud oral con seguimiento del progreso de los usuarios.
+
+🔗 https://crecerconcolgate.co1l.co/
+
+🔗 https://administracion.crecerconcolgate.co1l.co/
+
+---
+
+## 🪥 Día Nacional del Cepillado
+
+Formulario web utilizado a nivel nacional para registrar evidencias de campañas educativas en instituciones de Colombia.
+
+🔗 https://dia-nacional-cepillado-sbfb2024.co1l.co/
+
+🔗 https://evidencias-dnc2025.co1l.co/
+
+---
+
+## 🎥 Visita Digital Autoguiada Colgate
+
+Plataforma interactiva dirigida a droguerías para conocer nuevos productos mediante videos, cuestionarios y solicitud de muestras.
+
+🔗 https://visita.kagencia.com/login
+
+---
+
+## 🌿 Landing Pages Bivien
+
+Landing Pages informativas para diferentes líneas de productos.
+
+- Arrurrú
+- Intibon
+- SunPro
+
+🔗 https://arrurru.bivien.co1l.co/
+
+🔗 https://intibon.bivien.co1l.co/
+
+🔗 https://sun-pro.bivien.co1l.co/
+
+---
+
+# 🎓 Formación Académica
+
+**Tecnólogo en Análisis y Desarrollo de Sistemas de Información**
+
+Servicio Nacional de Aprendizaje - **SENA**
+
+📍 Cali, Colombia
+
+2022 - 2024
+
+---
+
+# 📫 Contacto
+
+📧 **Correo:** alejowosorio2986@gmail.com
+
+📍 **Ubicación:** Cali, Colombia
+
+🐙 **GitHub:** https://github.com/alejandro1osorio
+
+---
+
+# 📊 Estadísticas de GitHub
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=alejandro1osorio&show_icons=true&theme=tokyonight"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alejandro1osorio&layout=compact&theme=tokyonight"/>
 </p>
 
-**Tecnologías y herramientas**
-
-- SQL  
-- MySQL  
-- Python  
-- Excel  
-- Power BI  
-- Linux
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=alejandro1osorio&theme=tokyonight"/>
+</p>
 
 ---
 
-# 📊 Habilidades en Análisis de Datos
+## 💡 Actualmente
 
-- Consultas SQL para análisis de datos  
-- Limpieza y transformación de datos  
-- Análisis exploratorio de datos (EDA)  
-- Visualización de datos en Power BI  
-- Manejo y organización de bases de datos relacionales  
-- Automatización básica de procesos con Python
-
----
-
-# 📫 Contacto  
-
-📧 **Email:** alejowosorio2986@gmail.com  
-📱 **Tel:** 322 621 6981
+- 🚀 Mejorando mis habilidades en desarrollo Full Stack.
+- 📚 Aprendiendo nuevas tecnologías y buenas prácticas de arquitectura de software.
+- 🤝 Abierto a colaborar en proyectos de desarrollo web y software de código abierto.
